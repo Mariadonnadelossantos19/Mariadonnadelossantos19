@@ -1,4 +1,3 @@
-# 💫 Ma. Donna D. Fidelino | Junior Full Stack Developer 👩‍💻
 
 <div align="center">
   
