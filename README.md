@@ -1,13 +1,18 @@
 # 💫 Ma. Donna D. Fidelino | Junior Full Stack Developer 👩‍💻
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=12,20,15&height=200&section=header&text=Hello,%20I'm%20Donna&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
-<p align="center"> <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300" alt="Coder GIF"/> </p>
-</div>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+  
+  <!-- Capsule Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,15&height=220&section=header&text=Hello,%20I'm%20Donna!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Lifelong%20Learner&descAlignY=55&descAlign=50" width="100%"/>
 
-
+  <!-- Coder GIF -->
+  <p align="center">
+    <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="320" alt="Coder GIF"/>
+  </p>
+  
+  <!-- Animated Divider -->
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+  
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
