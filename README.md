@@ -1,13 +1,11 @@
 # 💫 Ma. Donna D. Fidelino | Junior Full Stack Developer 👩‍💻
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=300&section=header&text=Hello%20World!%20I'm%20Donna&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Junior%20Full%20Stack%20Developer%20%7C%20Cybersecurity%20Explorer&descAlign=50&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=12,20,15&height=200&section=header&text=Hello,%20I'm%20Donna&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+Show Image
 </div>
-
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=35&duration=2500&pause=800&color=6A5ACD&background=0D111700&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🚀+Junior+Full+Stack+Developer;🔐+Cybersecurity+Explorer;✨+Clean+Code+Enthusiast;💖+She+Codes+%7C+She+Conquers;🌟+Building+the+Future)](https://git.io/typing-svg)
-
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
