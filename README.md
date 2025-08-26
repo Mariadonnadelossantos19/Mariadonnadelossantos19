@@ -203,6 +203,13 @@ console.log("She codes, therefore she is! 💜");
 
 <div align="center">
 
+### 🐍 **Contribution Snake Animation**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mariadonnadelossantos19/mariadonnadelossantos19/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mariadonnadelossantos19/mariadonnadelossantos19/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mariadonnadelossantos19/mariadonnadelossantos19/output/github-contribution-grid-snake.svg">
+</picture>
+
 ### 📅 **Coding Activity**
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mariadonnadelossantos19&bg_color=0d1117&color=ff69b4&line=ff69b4&point=ff6b6b&area=true&hide_border=true" width="100%"/>
 
