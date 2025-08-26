@@ -1,4 +1,4 @@
-# 💜 Ma. Donna D. Fidelino | Aspiring Developer 👩‍💻
+# 💜 Ma. Donna D. Fidelino | Junior Full stack Developer 👩‍💻
 
 <div align="center">
   
