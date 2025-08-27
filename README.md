@@ -145,8 +145,8 @@
 ## 📊 GitHub Analytics & Battle Stats
 
 <div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=mariadonnadelossantos19&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" width="100%"/>
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mariadonnadelossantos19&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7)
 
 </div>
 
@@ -175,21 +175,18 @@
 
 ## 🌟 Skill Matrix & Learning Progress
 
-<div align="center">
+### 📈 Current Skill Levels
 
-### 📈 **Current Skill Levels**
+| 💻 Technology | 🎯 Proficiency | 📊 Progress | 🔥 Experience |
+|--------------|----------------|-------------|---------------|
+| 🎨 **HTML/CSS**     | Advanced Beginner | ██████████░░ 80% | Building responsive, animated layouts |
+| ⚡ **JavaScript**    | Intermediate       | █████████░░░ 70% | ES6+, Async/Await, DOM manipulation |
+| ⚛️ **React**         | Intermediate       | ████████░░░░ 65% | Hooks, Context API, Component patterns |
+| 🔧 **Node.js**       | Beginner+          | ██████░░░░░░ 50% | Express servers, middleware, RESTful APIs |
+| 🛢️ **MongoDB**       | Beginner+          | █████░░░░░░░ 45% | CRUD operations, aggregation basics |
+| 🐍 **Python**        | Beginner           | ███░░░░░░░░░ 35% | Automation scripts, basic algorithms |
+| 🔐 **Cybersecurity** | Learning           | ██░░░░░░░░░░ 25% | Web vulnerabilities, security basics |
 
-| 💻 Technology | 🎯 Proficiency | 📊 Progress Bar | 🔥 Experience |
-|---------------|---------------|-----------------|---------------|
-| 🎨 **HTML/CSS** | Advanced Beginner | ![80%](https://progress-bar.dev/80?color=ff69b4) | Building responsive, animated layouts |
-| ⚡ **JavaScript** | Intermediate | ![70%](https://progress-bar.dev/70?color=f7df1e) | ES6+, Async/Await, DOM manipulation |
-| ⚛️ **React** | Intermediate | ![65%](https://progress-bar.dev/65?color=61dafb) | Hooks, Context API, Component patterns |
-| 🔧 **Node.js** | Beginner+ | ![50%](https://progress-bar.dev/50?color=339933) | Express servers, middleware, RESTful APIs |
-| 🛢️ **MongoDB** | Beginner+ | ![45%](https://progress-bar.dev/45?color=47a248) | CRUD operations, aggregation basics |
-| 🐍 **Python** | Beginner | ![35%](https://progress-bar.dev/35?color=3776ab) | Automation scripts, basic algorithms |
-| 🔐 **Cybersecurity** | Learning | ![25%](https://progress-bar.dev/25?color=dc143c) | Web vulnerabilities, security basics |
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
